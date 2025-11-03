@@ -5,7 +5,7 @@ Este proyecto implementa un **bot de Telegram** que clasifica mensajes de texto 
 1️. Modelo tradicional con TF-IDF + Naive Bayes**  
 2️. Modelo avanzado basado en LLM (DistilBERT de Hugging Face)**  
 
-Ambos modelos fueron **entrenados y guardados previamente en Google Colab** y se integran en este bot para comparar sus resultados de manera práctica.
+Ambos modelos fueron **entrenados y guardados previamente en Google Colab** y se integran en este bot usando un token de telegram para comparar sus resultados de manera práctica.
 
 <img width="2142" height="1616" alt="image" src="https://github.com/user-attachments/assets/f814730b-40c7-42bb-827e-46d2c58d6ac8" />
 
